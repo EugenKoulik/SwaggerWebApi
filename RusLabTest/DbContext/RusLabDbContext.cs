@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using RusLabTest.DbContext.Models;
+using RusLabTest.Models;
 
 namespace RusLabTest
 {

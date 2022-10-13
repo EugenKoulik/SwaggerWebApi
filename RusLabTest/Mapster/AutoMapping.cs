@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using RusLabTest.DbContext.Models;
 using RusLabTest.Dto;
+using RusLabTest.Models;
 
 namespace RusLabTest.Mapster
 {

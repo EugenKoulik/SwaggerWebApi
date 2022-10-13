@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace RusLabTest.DbContext.Models
+namespace RusLabTest.Models
 {
     public sealed class Student : BaseModel
     {

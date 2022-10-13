@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
 using Microsoft.EntityFrameworkCore;
-using RusLabTest.DbContext.Models;
 using RusLabTest.Dto;
 using RusLabTest.Interfaces;
+using RusLabTest.Models;
 
 namespace RusLabTest.Services
 {
